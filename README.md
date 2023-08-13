@@ -3,6 +3,6 @@ Sebuah aplikasi dengan fitur login
 
 Alur Fitur Login:
 
-Memasukkan email dan password
-Memvalidasi masukkan
-Menampilkan halaman home
+1. Memasukkan email dan password
+2. Memvalidasi masukkan
+3. Menampilkan halaman home
